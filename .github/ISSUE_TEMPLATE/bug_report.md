@@ -1,8 +1,8 @@
 **Title**
-\nBug report
+Bug report
 
 **Describe the bug**
-\nA clear and concise description of what the bug is.
+A clear and concise description of what the bug is.
 
 **Screenshot(s)**
 You can insert images with juste drags and drops

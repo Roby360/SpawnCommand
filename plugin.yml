@@ -1,0 +1,20 @@
+name: SpawnCommand
+version: 1.2.1
+author: Roby360
+description: Permet de crée des spawns dans les monde et même un hub pour pouvoir se téléporté après !
+main: fr.Roby360.spawncommand.Main
+api-version: '1.16'
+commands:
+  spawn:
+    description: retour au spawn du monde !
+    permission: spawncommand.use.spawn
+    permission-message: "[SpawnCommand]: §4Désoler mais tu n'a pas la permission d'utilisé cette commande. (spawncommand.use.spawn requis)"
+    alases: [sp]
+  hub:
+    description: Renvoie au hub
+    permission: spawncommand.use.hub
+    permission-message: "[SpawnCommand]: §4Désoler mais tu n'a pas la permission d'utilisé cette commande. (spawncommand.use.hub requis)"
+  rspawnconfig:
+    description: recharge la configuration du fichier
+    permission: spawncommand.admin.reload
+    permission-message: "[SpawnCommand]: §4Désoler mais tu n'a pas la permission d'utilisé cette commande. (spawncommand.admin.reload requis)"

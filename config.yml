@@ -1,0 +1,59 @@
+# Spawns
+#-----------------[Exemple]-------------------
+# WorldName: 
+#  message: "&6Message when the player tp on word with command"
+#    x: 0 Co on x
+#    y: 0 Co on y
+#    z: 0 Co on z
+#    a: 0 Co on y of player view
+#    b: 0 Co on x of player view
+#----------------------------------------------------
+
+# Credit: Roby360 (discord if you find a bug)
+# Writed correct World name, if your world name containe upper case, add upper case as world name, exemple world name: "Test_01",so WorldName is "Test_01"
+# Work with Formatting codes minecraft colors exemple &b for blue => https://minecraft.fandom.com/fr/wiki/Codes_de_mise_en_forme for colors
+# Thanks for use my plugin
+
+spawns:
+  Minage:
+    message: "&6Téléportation au monde &b&lMinage"
+    x: 0
+    y: 0
+    z: 0
+    a: 0
+    b: 0
+  Nether:
+    message: "Téléportation au monde &d&lNether"
+    x: 0
+    y: 0
+    z: 0
+    a: 0
+    b: 0
+  Faction:
+    message: "Téléportation au monde &c&lFaction"
+    x: 0
+    y: 0
+    z: 0
+    a: 0
+    b: 0
+
+servername: "&f[&a&lEarth&b&lCraft&f]"
+
+hub:
+  worldName: 
+  message: "Téléportation au &b&lHub"
+  x: 0
+  y: 0
+  z: 0
+  a: 0
+  b: 0
+
+# Settings
+AllowSpawnCmd: true
+AllowHubCmd: true
+
+# Messages
+MessageSpawnNotFound: "Sorry spawn don't found on your world !"
+MessgaePlayerAlreadyHub: "Sorry but your are already on hub !"
+MessageCmdHubDisable: "Sorry but hub command is disable, please configure this file"
+MessageCmdSpawnDisable: "Sorry but spawn command is disable, please configure this file"

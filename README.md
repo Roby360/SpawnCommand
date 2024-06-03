@@ -63,19 +63,19 @@ MessageCmdSpawnDisable: "Sorry but the spawn command is disabled, please configu
 
 The SpawnCommand plugin includes several commands to enhance your server management and player experience. Here are the available commands and their functionalities:
 
- *  `/hub`
+*  `/hub`
 
 - **Description:** Teleports the player to the designated hub world.
 - **Requirements:** The hub world name must be configured in the `config.yml` file.
 - **Permission:** spawncommand.use.hub
 
- *  `/spawn`
+*  `/spawn`
 
 - **Description:** Teleports the player to a specified spawn point within the current world.
 - **Requirements:** The spawn point must be configured in the `config.yml` file for the current world.
 - **Permission:** spawncommand.use.spawn
 
- *  `/rspawnconfig`
+*  `/rspawnconfig`
 
 - **Description:** Reloads the plugin's configuration file without needing to restart the server.
 - **Requirements:** The command is typically used by server administrators to apply changes made to the `config.yml`

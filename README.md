@@ -77,9 +77,9 @@ The SpawnCommand plugin includes several commands to enhance your server managem
 
 *  `/rspawnconfig`
 
-- **Description:** Reloads the plugin's configuration file without needing to restart the server.
-- **Requirements:** The command is typically used by server administrators to apply changes made to the `config.yml`
-- **Permission:** spawncommand.admin.reload
+ * **Description:** Reloads the plugin's configuration file without needing to restart the server.
+ * **Requirements:** The command is typically used by server administrators to apply changes made to the `config.yml`
+ * **Permission:** spawncommand.admin.reload
   
 ## 📥 **Installation Guide**
 

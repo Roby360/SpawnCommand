@@ -85,22 +85,22 @@ The SpawnCommand plugin includes several commands to enhance your server managem
 
 To install the SpawnCommand plugin, follow these simple steps:
 
-### Step 1: Download the Plugin
+ * Step 1: Download the Plugin
 
 First, download the latest version of the SpawnCommand plugin from the official GitHub repository or the plugin's release page.
 
-### Step 2: Add the Plugin to Your Server
+ *  Step 2: Add the Plugin to Your Server
 
 1. Locate your Minecraft server directory.
 2. Open the `plugins` folder within the server directory.
 3. Drag and drop the downloaded SpawnCommand plugin `.jar` file into the `plugins` folder.
 
-### Step 3: Start Your Server
+ *  Step 3: Start Your Server
 
 1. Start your Minecraft server. You can do this by running the server’s start script or executable file.
 2. Once the server has started, the plugin will automatically load and be ready for use.
 
-### Step 4: Verify Installation
+ *  Step 4: Verify Installation
 
 1. To ensure the plugin is installed correctly, type the following command in the server console or in-game:
    ```
@@ -108,7 +108,7 @@ First, download the latest version of the SpawnCommand plugin from the official 
    ```
 2. Check that `SpawnCommand` appears in the list of active plugins. If it does, the installation is complete!
 
-### Step 5: Configuration (Optional)
+ *  Step 5: Configuration (Optional)
 
 For further customization, you can configure the plugin by editing the `config.yml` file located in the `plugins/SpawnCommand` directory. Refer to the plugin’s documentation for details on how to set up spawn points and messages.
 

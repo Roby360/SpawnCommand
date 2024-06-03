@@ -126,13 +126,13 @@ By meeting this requirement, you'll be able to take advantage of all the feature
 
 If you encounter any issues, have suggestions, or have questions about the plugin, there are several ways you can reach out for support or provide feedback:
 
-### GitHub
+ * GitHub
 
 The best way to report issues or suggest features is through the plugin's GitHub repository. You can submit detailed reports, share your ideas, or ask questions by creating an issue. This helps keep everything organized and allows other users to see and contribute to the discussion.
 
 __[GitHub | SpawnCommand Plugin](https://github.com/Roby360/SpawnCommand/issues)__
 
-### Discord
+ * Discord
 
 For a more direct approach, you can send me a direct message on Discord. This is a great option for quick questions or if you prefer real-time communication. Feel free to reach out, and I'll do my best to assist you promptly.
 
